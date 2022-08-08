@@ -1,0 +1,22 @@
+{
+  "name": "v5ia38--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@mui/material": "5.9.3",
+    "@mui/icons-material": "5.8.4",
+    "@emotion/react": "11.10.0",
+    "@emotion/styled": "11.10.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
